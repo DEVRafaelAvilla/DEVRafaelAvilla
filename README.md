@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo! Eu sou o Rafael Avilla🧑‍💻
 
-🔭 Em busca de uma oportunidade para iniciar minha carreira como DEV<br>🌱 Aprimorando cada vez mais meus estudos em Python<br>🔎 Procurando por Estágio
+🔭 Em busca de me aprimorar como DEV<br>🌱 Aprimorando cada vez mais meus estudos em Python<br>🔎 Estagiario em desenvolvimento Back End
 
 ![](https://github-readme-stats.vercel.app/api?username=DEVRafaelAvilla&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DEVRafaelAvilla&theme=transparent&hide_border=true)<br/>
