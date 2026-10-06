@@ -7,10 +7,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVRafaelAvilla&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💻 Repertório de linguagens:
-
+<div style="display: inline_block"><br>
   <img aling="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img aling="center" alt="Rafa-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" / >
-  <img aling="center" alt="Rafa-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />       
+  <img aling="center" alt="Rafa-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img aling="center" alt="Rafa-Delphi" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" />
+          
 </div>
 
 ##
